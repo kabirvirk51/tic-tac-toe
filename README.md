@@ -2,7 +2,7 @@
 
 Welcome to the Tic-Tac-Toe game! This simple yet classic game allows you to enjoy different game modes and provides a platform-independent experience. Whether you want to play against the computer or challenge your friends, Tic-Tac-Toe has you covered.
 
-** Please note that this game was created in july of 2023, and is now only being uploaded to github. **
+** Please note that this game was created in July of 2023, and is now only being uploaded to github. **
 
 ![](https://github.com/kabirvirk51/tic-tac-toe/blob/main/src/tictactoe.gif)
 
