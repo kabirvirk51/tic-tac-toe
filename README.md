@@ -2,7 +2,9 @@
 
 Welcome to the Tic-Tac-Toe game! This simple yet classic game allows you to enjoy different game modes and provides a platform-independent experience. Whether you want to play against the computer or challenge your friends, Tic-Tac-Toe has you covered.
 
-![](https://github.com/tic-tac-toe/tictactoe.gif)
+** Please note that this game was created in july of 2023, and is now only being uploaded to github. **
+
+![](https://github.com/kabirvirk51/tic-tac-toe/blob/main/src/tictactoe.gif)
 
 ## Features
 
@@ -31,8 +33,39 @@ Before you get started, make sure you have the following installed:
 
 To get the game up and running, follow these steps:
 
-1. Clone the repository:
+Clone the repository:
 
    ```bash
-   git clone https://github.com/CM0use/Tic-tac-toe.git
-   cd Tic-tac-toe
+   git clone https://github.com/kabirvirk51/tic-tac-toe.git
+   cd tic-tac-toe
+```
+
+Compile the game using g++:
+
+  ```bash
+  g++ -O2 -std=c++2a src/game.cpp src/tictactoe.cpp -o tictactoe
+  ```
+Run on **macOS & Linux**:
+
+```bash
+
+./tictactoe
+
+```
+
+Run on **Windows**:
+
+```cmd
+
+tictactoe.exe
+
+```
+
+## Uninstall
+If you wish to remove the game, simply delete the cloned or downloaded folder from your computer.
+
+## Contributions
+Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
+
+## License
+This project is licensed under the MIT License - see the LICENSE
