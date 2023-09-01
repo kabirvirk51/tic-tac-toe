@@ -1,9 +1,10 @@
-#include "../header/header.h
 #include <iostream>
 #include <random>
 #include <array>
 #include <vector>
 #include <limits>
+
+#include "../header/header.h
 
 class TicTacToeGame {
 public:
