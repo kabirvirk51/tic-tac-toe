@@ -2,6 +2,8 @@
 
 Welcome to the Tic-Tac-Toe game! This simple yet classic game allows you to enjoy different game modes and provides a platform-independent experience. Whether you want to play against the computer or challenge your friends, Tic-Tac-Toe has you covered.
 
+![](https://github.com/tic-tac-toe/tictactoe.gif)
+
 ## Features
 
 - **Game Modes**: Choose from various game modes:
